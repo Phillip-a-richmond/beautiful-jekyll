@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Still building this website so stay tuned people
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Phillip Andrew Richmond, but I go by Phil.  
+- I love dogs, genomics, bioinformatics, most organized sports (both playing and watching), lifting weights, and Vancouver BC.
+- I currently have a beard
+- I also have a passion for teaching.
 
 What else do you need?
 
-### my history
+### Interesting Links to My Stuff
+Online Courses
+- Python for Biologists [Click Here](http://dowell.colorado.edu/education-python.html)
+- Introduction to Genomics [Click Here](https://phillip-a-richmond.github.io/Introduction-to-Genomic-Analysis/)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Social Media
+- [LinkedIn](https://www.linkedin.com/in/phillip-andrew-richmond-43838420/)
+- [Facebook](https://www.facebook.com/phillip.richmond.7)
+- [Twitter](https://twitter.com/Phil_A_Richmond)
+
+Publications
+- [Google Scholar](https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en)
+- [Orcid ID](http://orcid.org/0000-0003-1882-6014)
+
+
