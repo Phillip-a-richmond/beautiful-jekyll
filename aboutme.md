@@ -26,8 +26,11 @@ Publications
 - [Orcid ID](http://orcid.org/0000-0003-1882-6014)
 
 
+![An Homage to Github Images][Octocat Founding Father]
+
+
 
 
 [Google Scholar Link]:https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en
-
+[Octocat Founding Father]:http://octodex.github.com/images/founding-father.jpg
 
