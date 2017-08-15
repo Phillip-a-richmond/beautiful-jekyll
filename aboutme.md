@@ -16,14 +16,7 @@ Online Courses
 - Python for Biologists [Click Here](http://dowell.colorado.edu/education-python.html)
 - Introduction to Genomics [Click Here](https://phillip-a-richmond.github.io/Introduction-to-Genomic-Analysis/)
 
-Social Media
-- [LinkedIn](https://www.linkedin.com/in/phillip-andrew-richmond-43838420/)
-- [Facebook](https://www.facebook.com/phillip.richmond.7)
-- [Twitter](https://twitter.com/Phil_A_Richmond)
-
-Publications
-- [Google Scholar][Google Scholar Link]
-- [Orcid ID](http://orcid.org/0000-0003-1882-6014)
+[Publication List][Google Scholar Link]
 
 
 ![An Homage to Github Images][Octocat Founding Father]
