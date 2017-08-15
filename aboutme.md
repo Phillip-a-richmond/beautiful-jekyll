@@ -22,7 +22,12 @@ Social Media
 - [Twitter](https://twitter.com/Phil_A_Richmond)
 
 Publications
-- [Google Scholar](https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en)
+- [Google Scholar][Google Scholar Link]
 - [Orcid ID](http://orcid.org/0000-0003-1882-6014)
+
+
+
+
+[Google Scholar Link]:https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en
 
 
