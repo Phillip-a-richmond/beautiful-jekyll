@@ -56,9 +56,11 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 - *The Next Generation of the Fight Against Rare Genetic Disorders*
   - March 2016
   - Costco donor audience
+  - Audience: 15
 - *Next generation sequencing: WGS read mapping and variant calling overview*
   - March 2017
   - Guest lecture: Medical Genetics 540
+  - Audience: 40
 - *Clinical Genomics: The Next Generation of Medicine for Rare Genetic Disorders*
   - July 2017
   - Invited Paid Lecture: International UBC Medical Student Summer School
@@ -68,6 +70,15 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 
 
 #### Presentations
+
+
+### Volunteering
+- Youth YMCA coach (2012-2015)
+  - 1st, 2nd, 3rd grade soccer coach (5 seasons total)
+  - 7th Grade basketball coach (1 season)
+
+- GeneSkool Volunteer Teacher (2016-present)
+  - 2 sessions (2016)
 
 
 
