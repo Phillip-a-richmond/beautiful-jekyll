@@ -22,11 +22,11 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 - Ty1 retrotransposon insertion profiling and mechanism in *Saccharomyces cerevisiae* wild type and mutant strains
 
 #### Past
-- Genetic contributions to acute alcohol sensitivity in mice ([2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:d1gkVwhDpl0C), [2016](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:qjMakFHDy7sC))
-- Influence of ploidy on adaptation ([2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:u5HHmVD_uO8C), [2017](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:Y0pCki6q_DkC))
-- Impact of prolonged Cre expression in cardiac mouse models ([2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:u-x6o8ySG0sC))
-- Genetic contributions to antisocial drug dependence ([2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:9yKSN-GCB0IC))
-- Decoding regulatory mechanisms in *Saccharomyces cerevisiae* ([2016](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:2osOgNQ5qMEC))
+- Genetic contributions to acute alcohol sensitivity in mice ([Alcoholism: Clinical and Experimental Research, 2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:d1gkVwhDpl0C), [Mammalian Genome, 2016](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:qjMakFHDy7sC))
+- Influence of ploidy on adaptation ([Nature, 2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:u5HHmVD_uO8C), [Molecular Biology and Evolution, 2017](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:Y0pCki6q_DkC))
+- Impact of prolonged Cre expression in cardiac mouse models ([Journal of molecular and cellular cardiology, 2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:u-x6o8ySG0sC))
+- Genetic contributions to antisocial drug dependence ([Behavior genetics, 2015](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:9yKSN-GCB0IC))
+- Decoding regulatory mechanisms in *Saccharomyces cerevisiae* ([PLoS genetics, 2016](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=Q5vulG4AAAAJ&citation_for_view=Q5vulG4AAAAJ:2osOgNQ5qMEC))
 
 ### Academics
 #### Credentials
