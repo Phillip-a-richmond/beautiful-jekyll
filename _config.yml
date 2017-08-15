@@ -25,7 +25,6 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Publications: "https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en"
   Teaching Materials:
     - Introduction to Genomic Analysis: https://phillip-a-richmond.github.io/Introduction-to-Genomic-Analysis/  
