@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post from Phil!
+subtitle: AKA building an online presence
 image: /img/hello_world.jpeg
 tags: [First, exciting-stuff]
 ---
