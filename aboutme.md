@@ -62,6 +62,15 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 - *Clinical Genomics: The Next Generation of Medicine for Rare Genetic Disorders*
   - July 2017
   - Invited Paid Lecture: International UBC Medical Student Summer School
+  - Audience: 150
+
+#### Posters
+
+
+#### Presentations
+
+
+
 
 ### Hobbies
 
@@ -80,8 +89,10 @@ My name is Phillip Andrew Richmond, but I go by Phil.
   - Halo
   - Smash Bros (N64 only)
 - Hiking
-- Hanging out with my doggos
+- Hanging out with my dogs
 - Traveling
+- Beginner Photography
+
 
 ### Places I've traveled
 
