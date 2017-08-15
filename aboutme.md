@@ -33,16 +33,35 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 - B.A. in Molecular, Cellular, & Developmental Biology from the University of Colorado (*Summa cum laude*)
 - *In Progress*: PhD in Bioinformatics from the University of British Columbia
 
-#### Awards
-- NSERC CREATE 2-year scholarship
-- BCCHR Graduate Studentship
+#### Awards 
+- NSERC CREATE 2-year scholarship (2015/2016)
+- BCCHR Graduate Studentship (2017)
+- Compute Canada Resource Allocation Competition (2017)
 
 #### Workshops Taught
 - Introduction to Bioinformatics
-  - Summer 2016, Wine Research Centre, 8 students
-- 
+  - Summer 2016
+  - Wine Research Centre
+  - 8 students
+- Short-Read Mapping and Visualization (WestGrid hosted Workshop)
+  - November 2016, 
+  - WestGrid & Compute Canada 
+  - 60 students
+- Introduction to Genomic Analysis Workshop Series
+  - June 2017 
+  - WestGrid, Compute Canada, BCCHR Evidence 2 Innovation
+  - 80 students
+  
 #### Lectures
-
+- *The Next Generation of the Fight Against Rare Genetic Disorders*
+  - March 2016
+  - Costco donor audience
+- *Next generation sequencing: WGS read mapping and variant calling overview*
+  - March 2017
+  - Guest lecture: Medical Genetics 540
+- *Clinical Genomics: The Next Generation of Medicine for Rare Genetic Disorders*
+  - July 2017
+  - Invited Paid Lecture: International UBC Medical Student Summer School
 
 ### Hobbies
 
