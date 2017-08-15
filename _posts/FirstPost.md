@@ -1,3 +1,11 @@
+---
+layout: post
+title: First post!
+image: /img/hello_world.jpeg
+tags: [First, exciting-stuff]
+---
+
+
 Date: August 15th 2017
 
 > Started from the bottom now we're here.
