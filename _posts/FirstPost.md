@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: First post from Phil!
 image: /img/hello_world.jpeg
 tags: [First, exciting-stuff]
 ---
