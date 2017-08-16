@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Still building this website so stay tuned people
+subtitle: Consider it an informal resume
 ---
 ### General Stuff
 
@@ -33,7 +33,7 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 - B.A. in Molecular, Cellular, & Developmental Biology from the University of Colorado (*Summa cum laude*)
 - *In Progress*: PhD in Bioinformatics from the University of British Columbia
 
-#### Awards 
+#### Awards/Funding
 - NSERC CREATE 2-year scholarship (2015/2016)
 - BCCHR Graduate Studentship (2017)
 - Compute Canada Resource Allocation Competition (2017)
@@ -53,20 +53,34 @@ My name is Phillip Andrew Richmond, but I go by Phil.
   - 80 students
   
 #### Lectures
+- *Influence of ploidy on Adaptation*
+  - April 2014
+  - MCDB Departmental Seminar 
+- *Leveraging Next Generation Sequencing in Brewing Quality Control*
+  - June 2014
+  - American Society of Brewing Chemists Annual Meeting (Chicago, IL)
+- *Leveraging Next Generation Sequencing in Brewing Quality Control*
+  - October 2014
+  - Rocky Mountain Brewing Symposium (Colorado Springs, CO)
 - *The Next Generation of the Fight Against Rare Genetic Disorders*
   - March 2016
-  - Costco donor audience
+  - Costco donor audience (Vancouver, BC)
   - Audience: 15
 - *Next generation sequencing: WGS read mapping and variant calling overview*
   - March 2017
-  - Guest lecture: Medical Genetics 540
+  - Guest lecture: Medical Genetics 540 (Vancouver, BC)
   - Audience: 40
 - *Clinical Genomics: The Next Generation of Medicine for Rare Genetic Disorders*
   - July 2017
-  - Invited Paid Lecture: International UBC Medical Student Summer School
+  - Invited Paid Lecture: International UBC Medical Student Summer School (Vancouver, BC)
   - Audience: 150
 
 #### Posters
+- American Society for Cellular Biology (2011)
+- Bioinformatics, Integrative Oncology, and Genome Sciences & Technology Conference (2017)
+  - 2nd place
+- BCCHR Research Day (2017)
+
 
 
 #### Presentations
