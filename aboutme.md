@@ -52,7 +52,7 @@ My name is Phillip Andrew Richmond, but I go by Phil.
   - WestGrid, Compute Canada, BCCHR Evidence 2 Innovation
   - 80 students
   
-#### Lectures
+#### Lectures & Presentations
 - *Influence of ploidy on Adaptation*
   - April 2014
   - MCDB Departmental Seminar 
@@ -77,13 +77,12 @@ My name is Phillip Andrew Richmond, but I go by Phil.
 
 #### Posters
 - American Society for Cellular Biology (2011)
+- Rocky Mountain Yeast Meeting (2014)
 - Bioinformatics, Integrative Oncology, and Genome Sciences & Technology Conference (2017)
   - 2nd place
 - BCCHR Research Day (2017)
 
 
-
-#### Presentations
 
 
 ### Volunteering
