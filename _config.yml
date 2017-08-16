@@ -28,8 +28,8 @@ navbar-links:
     - Publications: "https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en"
   Teaching Materials:
     - Introduction to Genomic Analysis: https://phillip-a-richmond.github.io/Introduction-to-Genomic-Analysis/
-    - Bioinformatics Introductory Analysis Course (Inverted Classroom): http://phillip-a-richmond.github.io/Bioinformatics-Introductory-Analysis-Course/
-    - Python Programming for Biologists (Inverted Classroom): http://dowell.colorado.edu/education-python.html  
+    - Bioinformatics Introductory Analysis Course: http://phillip-a-richmond.github.io/Bioinformatics-Introductory-Analysis-Course/
+    - Python Programming for Biologists: http://dowell.colorado.edu/education-python.html  
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
