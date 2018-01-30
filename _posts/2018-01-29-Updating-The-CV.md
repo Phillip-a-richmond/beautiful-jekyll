@@ -15,7 +15,7 @@ I decided to scrap the old hacked together word document that I made in 2015, an
 
 For now, I won't fork over the $9/month for the collab abilities (google docs + paperpile is fine for that), but I sure do love what this website offers for personal use (free no collabs).
 
-Anyways, if you want to see the final product hop over to the About Me section and find the link of the PDF.
+Anyways, if you want to see the final product hop over to the About Me section and find the link of the PDF. ** CORRECTION ** If you want the CV you gotta get to know me. AKA, I'd give it over if you email me. 
 
 Drop me a line if you want to chat about the stuff I do, find my email at the bottom of the main page.
 
