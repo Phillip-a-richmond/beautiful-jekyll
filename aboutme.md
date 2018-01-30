@@ -4,9 +4,7 @@ title: About me
 subtitle: Consider it an informal resume
 ---
 ## If you want the real deal
-You can grab my academic CV from [here](https://github.com/Phillip-a-richmond/phillip-a-richmond.github.io/blob/master/PhilRichmond_AcademicCV_180130.pdf)
-
-
+You can email me and I'll provide the academic CV. I had it posted here for a second...but instead I think it makes more sense to keep it off the open internet for now.
 
 ## General Stuff
 
