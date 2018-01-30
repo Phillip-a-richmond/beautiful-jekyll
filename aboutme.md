@@ -3,6 +3,11 @@ layout: page
 title: About me
 subtitle: Consider it an informal resume
 ---
+## If you want the real deal
+You can grab my academic CV from [here](https://github.com/Phillip-a-richmond/phillip-a-richmond.github.io/blob/master/PhilRichmond_AcademicCV_180130.pdf)
+
+
+
 ## General Stuff
 
 My name is Phillip Andrew Richmond, but I go by Phil.  
